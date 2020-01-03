@@ -1,0 +1,1 @@
+This is a simple demon to show how to use python for web crawling and text mining. Part of the codes come from Dr FengLi, CUFE.
